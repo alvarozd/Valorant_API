@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\Alvaro Zuñiga\Desktop\pruebas</_PublishTargetUrl>
+    <History>True|2023-08-11T15:57:46.1440316Z;True|2023-08-11T10:55:17.5713772-05:00;True|2023-08-11T10:54:03.1940792-05:00;True|2023-08-11T10:43:56.1177625-05:00;True|2023-08-11T09:50:35.7381994-05:00;False|2023-08-11T09:50:21.8637288-05:00;True|2023-08-11T09:42:20.6449138-05:00;True|2023-08-11T09:39:27.6849649-05:00;True|2023-08-09T16:42:23.6799908-05:00;True|2023-08-09T16:41:02.9335871-05:00;True|2023-08-09T16:41:00.4307841-05:00;True|2023-08-09T16:39:13.5761543-05:00;True|2023-08-09T15:58:44.7041877-05:00;True|2023-08-08T14:47:07.6631357-05:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
